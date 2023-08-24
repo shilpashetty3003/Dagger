@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DaggerExample</string>
+    <string name="title">MVP Architecture Pattern</string>
+    <string name="description">MVP Architecture Pattern Computer Science Online Courses</string>
+</resources>
